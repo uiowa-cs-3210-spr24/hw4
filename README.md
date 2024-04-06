@@ -39,6 +39,10 @@ function and the `testMaxInts` function. Once you implement the class and the ne
 your header and the test code. Leave these uncommented in your submission. You will want to add other tests, but make sure you 
 remove them before submitting.
 
+## Deadline
+If you make commits after the deadline, we will consider the submission to be late and use the late submission policy from the syllabus
+to grade, so please don't push commits after the deadline unless you're intending to submit late.
+
 ## Objective
 The goal is to extend out functions on 4-bit binary numbers to work for larger binary numbers, and to organize them into 
 an OOP-style library.
